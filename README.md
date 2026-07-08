@@ -91,7 +91,6 @@ Address_Book_Management/
 - Manage contacts efficiently.
 - Use Java Collections for storing contacts.
 - Manage multiple Address Books.
-- Practice modular application development.
 - Follow Git feature branch workflow.
 
 ---
